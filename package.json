@@ -1,0 +1,17 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "A simple chat application",
+  "main": "server.js",
+  "dependencies": {
+    "mongodb": "^3.5.8",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "npm start":"node server"
+  },
+  "author": "Anuj Tiwari",
+  "license": "ISC"
+}
